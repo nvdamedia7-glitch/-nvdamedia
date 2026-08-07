@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nvdamedia.vercel.app/sitemap.xml
